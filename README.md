@@ -1,3 +1,2 @@
 # XGX
-psychic-carnival
-介绍vant-weapp导入
+记录自己学习前端的点滴！
